@@ -77,6 +77,7 @@ body {
   color: var(--content_color);
   font-size: var(--font-size);
   font-family: "Raleway", sans-serif;
+  text-transform: lowercase !important;
 }
 
 .ptb-100 {
